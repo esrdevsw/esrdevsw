@@ -35,37 +35,28 @@ I'm a tech enthusiast with a passion for software development and automation. Wh
 </p>
 
 ---
+### Project
 
-<ul>
-	<li>Java</li>
-	<ul>
-		<li>nGram</li>
-		<li>MultithreadedIndexing</li>
-		<li>NetworkChatProj</li>
-		<li>JUnitTest</li>
-		<li>CTAproject</li>
-	</ul>
-	<li>Web</li>
-	<ul>
-		<li>invictuswebproject</li>
-		<li>edivagner.github.io </li>
-		<li>AWS Wordpress</li>
-	</ul>
-	<li>Mobile-WebApp</li>
-	<ul>
-		<li>SoccerPlayerV05 - Ionic</li>
-		<li>WeatherApp - Angular</li>
-		<li>TodoList - Kotlin</li>
-	</ul>
-	<li>DBMS</li>
-	<ul>
-		<li>DatabaseProject-Dental_Clinic </li>
-	</ul>
-	<li>Automation and Data Analysis</li>
-	<ul>
-		<li>Python-Programming </li>
-		<li>capacitive_device_equivalent-circuit-model</li>
-		<li>Automation_Hydrogen_Charges </li>
-		<li>Pressure-Cycling-System </li>
-	</ul>
-</ul>
+I'm excited to share with you my passion and expertise in Code, Algorithm, and Physics research. This portfolio showcases my skills, achievements, and growth in these fields, highlighting my ability to apply innovative problem-solving techniques to complex challenges. This portfolio also demonstrates my capacity to work collaboratively and independently, think critically, and deliver exceptional results. I invite you to explore my portfolio to learn more about me and my work, and how I can contribute to your organization's success. Thank you for your interest!
+
+1. **Java**: 
+   1. [Text Classification using N-Gram](https://github.com/esrdevsw/nGram) 
+   2. [Text Indexing using Multi-threaded](https://github.com/esrdevsw/MultithreadedIndexing)
+   3. [Web-based chat application](https://github.com/esrdevsw/NetworkChatProj)
+   4. [JUnit test - InsuranceProgram](https://github.com/esrdevsw/JUnitTest)
+   5. [Sorting Algorithms benchmark](https://github.com/esrdevsw/CTAproject)
+2. **Web**:
+   1. [web project - invictus Wine](https://github.com/esrdevsw/invictuswebproject) 
+   2. [AWS Wordpress](https://github.com/esrdevsw/AWS-WordPress-Website)
+   3. [Personal website](https://github.com/esrdevsw/edivagner.github.io)    
+3. **Mobile-WebApp**:
+   1. [Soccer Player App- Ionic](https://github.com/esrdevsw/SoccerPlayerV05) 
+   2. [WeatherApp - Angular](https://github.com/esrdevsw/MobileAngular/tree/main/WeatherApp)
+   3. [TodoList - Kotlin](https://github.com/esrdevsw/AndroidAPP_Study/tree/main/TodoList) 
+4. **DBMS**:
+   1. [Database Project - Dental Clinic](https://github.com/esrdevsw/DatabaseProject-Dental_Clinic) 
+5. **Automation and Data Analysis**:
+   1. [IBM data science (Coursera) - Python](https://github.com/esrdevsw/Python-Programming) 
+   2. [Data Analysis Model - equivalent-circuit for capacitive device - Matlab](https://github.com/esrdevsw/capacitive_device_equivalent-circuit-model)
+   3. [Automation system Hydrogen Energy studies - LabVIEW](https://github.com/esrdevsw/Automation_Hydrogen_Charges) 
+   4. [Automation system Hydrogen Degradation studies - LabVIEW](https://github.com/esrdevsw/Pressure-Cycling-System)
