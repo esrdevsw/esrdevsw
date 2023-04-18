@@ -55,7 +55,9 @@ I'm excited to share with you my passion and expertise in Code, Algorithm, and P
    3. [TodoList - Kotlin](https://github.com/esrdevsw/AndroidAPP_Study/tree/main/TodoList) 
 4. **DBMS**:
    1. [Database Project - Dental Clinic](https://github.com/esrdevsw/DatabaseProject-Dental_Clinic) 
-5. **Automation and Data Analysis**:
+5. **Bash**:
+   1. [Simple Calculator in Bash](https://github.com/esrdevsw/bash_files)
+6. **Automation and Data Analysis**:
    1. [IBM data science (Coursera) - Python](https://github.com/esrdevsw/Python-Programming) 
    2. [Data Analysis Model - equivalent-circuit for capacitive device - Matlab](https://github.com/esrdevsw/capacitive_device_equivalent-circuit-model)
    3. [Automation system Hydrogen Energy studies - LabVIEW](https://github.com/esrdevsw/Automation_Hydrogen_Charges) 
