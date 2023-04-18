@@ -11,7 +11,6 @@ I'm a tech enthusiast with a passion for software development and automation. Wh
 - 🔭 I’m currently working on NLP project
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’am looking to collaborate on exciting projects and wonderful people
-- 🤔 I’m looking for help with get a job
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Edivagner-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/esrdevsw)
 
 ---
