@@ -37,3 +37,36 @@ I'm a tech enthusiast with a passion for software development and automation. Wh
 
 ---
 
+<ul>
+	<li>Java</li>
+	<ul>
+		<li>nGram</li>
+		<li>MultithreadedIndexing</li>
+		<li>NetworkChatProj</li>
+		<li>JUnitTest</li>
+		<li>CTAproject</li>
+	</ul>
+	<li>Web</li>
+	<ul>
+		<li>invictuswebproject</li>
+		<li>edivagner.github.io </li>
+		<li>AWS Wordpress</li>
+	</ul>
+	<li>Mobile-WebApp</li>
+	<ul>
+		<li>SoccerPlayerV05 - Ionic</li>
+		<li>WeatherApp - Angular</li>
+		<li>TodoList - Kotlin</li>
+	</ul>
+	<li>DBMS</li>
+	<ul>
+		<li>DatabaseProject-Dental_Clinic </li>
+	</ul>
+	<li>Automation and Data Analysis</li>
+	<ul>
+		<li>Python-Programming </li>
+		<li>capacitive_device_equivalent-circuit-model</li>
+		<li>Automation_Hydrogen_Charges </li>
+		<li>Pressure-Cycling-System </li>
+	</ul>
+</ul>
