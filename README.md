@@ -51,7 +51,7 @@ I'm excited to share with you my passion and expertise in Code, Algorithm, and P
    3. [Personal website](https://github.com/esrdevsw/edivagner.github.io)    
 3. **Mobile-WebApp**:
    1. [Soccer Player App- Ionic](https://github.com/esrdevsw/SoccerPlayerV05) 
-   2. [WeatherApp - Angular](https://github.com/esrdevsw/MobileAngular/tree/main/WeatherApp)
+   2. [WeatherApp - Angular](https://github.com/esrdevsw/WeatherApp-Angular)
    3. [TodoList - Kotlin](https://github.com/esrdevsw/AndroidAPP_Study/tree/main/TodoList) 
 4. **DBMS**:
    1. [Database Project - Dental Clinic](https://github.com/esrdevsw/DatabaseProject-Dental_Clinic) 
