@@ -62,3 +62,5 @@ I'm excited to share with you my passion and expertise in Code, Algorithm, and P
    2. [Data Analysis Model - equivalent-circuit for capacitive device - Matlab](https://github.com/esrdevsw/capacitive_device_equivalent-circuit-model)
    3. [Automation system Hydrogen Energy studies - LabVIEW](https://github.com/esrdevsw/Automation_Hydrogen_Charges) 
    4. [Automation system Hydrogen Degradation studies - LabVIEW](https://github.com/esrdevsw/Pressure-Cycling-System)
+7. **Game**:
+   1. [Connect 4](https://github.com/esrdevsw/Connect4Game)
